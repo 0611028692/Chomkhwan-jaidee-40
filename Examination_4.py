@@ -7,4 +7,15 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+score = int(input( 0-100))
+if eval >=80 
+       print(ได้ A )
+
+else >=70  
+        print(ได้ B )  
+
+else >=50 
+        print(ได้ D )
+
+else (น้อยกว่า 50) 
+      print(ได้ F) 
